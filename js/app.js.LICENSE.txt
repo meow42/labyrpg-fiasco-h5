@@ -1,0 +1,11 @@
+/*!
+* @nutui/nutui-taro v3.2.3 Fri Sep 30 2022 10:30:32 GMT+0800 (中国标准时间)
+* (c) 2022 @jdf2e.
+* Released under the MIT License.
+*/
+
+/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
+
+/*!@license Copyright 2013, Heinrich Goebl, License: MIT, see https://github.com/hgoebl/mobile-detect.js*/
+
+/*!mobile-detect v1.4.5 2021-03-13*/
